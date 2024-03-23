@@ -1,1 +1,1 @@
-# GIFFY
+# random-gifs
